@@ -1,0 +1,20 @@
+[
+  {
+    "Edad": 30,
+    "Experiencia_Anios": 5,
+    "Horas_Entrenamiento_Mensual": 10,
+    "Nivel_Educativo": "Universitaria",
+    "Satisfaccion_Laboral": "Alta",
+    "Departamento": "Tecnología",
+    "Remoto": "Sí"
+  },
+  {
+    "Edad": 45,
+    "Experiencia_Anios": 20,
+    "Horas_Entrenamiento_Mensual": 5,
+    "Nivel_Educativo": "Postgrado",
+    "Satisfaccion_Laboral": "Muy Alta",
+    "Departamento": "Administración",
+    "Remoto": "No"
+  }
+]
