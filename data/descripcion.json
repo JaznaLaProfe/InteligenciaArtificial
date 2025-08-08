@@ -1,0 +1,86 @@
+[
+	{
+		"nombre" : "battery_power",
+		"descripcion": "Total energy a battery can store in one time measured in mAh"
+	},
+	{
+		"nombre": "blue",
+		"descripcion": "Has bluetooth or not"
+	},
+	{
+		"nombre": "clock_speed",
+		"descripcion": "speed at which microprocessor executes instructions"
+	},
+	{
+		"nombre": "dual_sim",
+		"descripcion": "Has dual sim support or not"
+	},
+	{
+		"nombre": "fc",
+		"descripcion": "Front Camera mega pixels"
+	},
+	{
+		"nombre": "four_g",
+		"descripcion": "Has 4G or not"
+	},			
+	{
+		"nombre": "int_memory",
+		"descripcion": "Internal Memory in Gigabytes"
+	},
+	{
+		"nombre": "m_dep",
+		"descripcion":"Mobile Depth in cm"
+	},
+	{
+		"nombre": "mobile_wt",
+		"descripcion":"Weight of mobile phone"
+	},	
+	{
+		"nombre": "n_cores",
+		"descripcion": "Number of cores of processor"
+	},
+	{
+		"nombre": "pc",
+		"descripcion": "Primary Camera mega pixels"
+	},
+	{
+		"nombre": "px_height",
+		"descripcion": "Pixel Resolution Height"
+	},	
+	{
+		"nombre": "px_width",
+		"descripcion": "Pixel Resolution Width"
+	},	
+	{
+		"nombre": "ram",
+		"descripcion": "Random Access Memory in Mega Bytes"
+	},
+	{
+		"nombre": "sc_h",
+		"descripcion": "Screen Height of mobile in cm"
+	},	
+	{
+		"nombre": "sc_w",
+		"descripcion": "Screen Width of mobile in cm"
+	},
+	{
+		"nombre": "talk_time",
+		"descripcion": "longest time that a single battery charge will last when you are"
+	},
+	{
+		"nombre": "three_g",
+		"descripcion": "Has 3G or not"
+	},
+	{
+		"nombre": "touch_screen",
+		"descripcion": "Has touch screen or not"
+	},
+	{
+		"nombre": "wifi",
+		"descripcion": "Has wifi or not"
+	},
+	{
+		"nombre": "price_range",
+		"descripcion": "This is the target variable with value of 0(low cost), 1(medium cost), 2(high cost) and 3(very high cost)."
+	}	
+]
