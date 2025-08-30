@@ -1,0 +1,42 @@
+[
+	{
+		"nombre" : "hour_of_day",
+		"descripcion": "Hour of purchase (0–23)"
+	},
+	{
+		"nombre": "cash_type",
+		"descripcion": "Mode of payment (cash / card)"
+	},
+	{
+		"nombre": "money",
+		"descripcion": "Transaction amount (in local currency)"
+	},
+	{
+		"nombre": "coffee_name",
+		"descripcion": "Type of coffee purchased (e.g., Latte, Americano, Hot Chocolate)"
+	},
+	{
+		"nombre": "Time_of_Day ",
+		"descripcion": "Categorized time of purchase (Morning, Afternoon, Night)"
+	},
+	{
+		"nombre": "Weekday",
+		"descripcion": "Day of the week (e.g., Mon, Tue, …)"
+	},			
+	{
+		"nombre": "Month_name",
+		"descripcion": "Month of purchase (e.g., Jan, Feb, Mar)"
+	},
+	{
+		"nombre": "Monthsort",
+		"descripcion":"Numeric representation for weekday ordering (1 = Mon, 7 = Sun)"
+	},
+	{
+		"nombre": "Date",
+		"descripcion":"Date of transaction (YYYY-MM-DD)"
+	},	
+	{
+		"nombre": "Time",
+		"descripcion": "Exact time of transaction (HH:MM:SS)"
+	}	
+]
