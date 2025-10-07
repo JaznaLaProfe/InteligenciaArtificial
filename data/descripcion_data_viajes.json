@@ -1,0 +1,42 @@
+[
+	{
+		"nombre" : "Trip_Distance_km",
+		"descripcion": "Distancia total recorrida durante el viaje (en kilómetros)"		
+	},
+	{
+		"nombre": "Time_of_Day",
+		"descripcion": "Momento del día en que se realizó el viaje: Morning, Afternoon, Evening, Night."
+	},
+	{
+		"nombre": "Day_of_Week",
+		"descripcion": "Día de la semana del viaje: Weekday o Weekend."
+	},
+	{
+		"nombre": "Passenger_Count",
+		"descripcion": "Cantidad de pasajeros transportados."
+	},
+	{
+		"nombre": "Traffic_Conditions",
+		"descripcion": "Nivel de tráfico durante el viaje: Low, Medium, High."
+	},
+	{
+		"nombre": "Base_Fare",
+		"descripcion": "Tarifa base cobrada por iniciar el viaje."
+	},			
+	{
+		"nombre": "Per_Km_Rate",
+		"descripcion": "Costo cobrado por kilómetro recorrido."
+	},
+	{
+		"nombre": "Per_Minute_Rate",
+		"descripcion": "Costo cobrado por minuto de viaje."
+	},
+	{
+		"nombre": "Trip_Duration_Minutes",
+		"descripcion":"Duración total del viaje en minutos."
+	},	
+	{
+		"nombre": "Trip_Price",
+		"descripcion": "Precio total cobrado por el viaje."
+	}	
+]
